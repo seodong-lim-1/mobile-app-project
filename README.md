@@ -1,6 +1,6 @@
 # CSCI4100 Group Project
 
-Group members (3-5) (no Student IDs, only names and github usernames):
+Group members (3-5)  
 
 1. Kevin Lau (kevinlau24)
 
